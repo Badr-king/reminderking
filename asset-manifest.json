@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reminderking/static/css/main.bc799066.chunk.css",
+    "main.js": "/reminderking/static/js/main.6f894549.chunk.js",
+    "main.js.map": "/reminderking/static/js/main.6f894549.chunk.js.map",
+    "runtime-main.js": "/reminderking/static/js/runtime-main.89ca8b0f.js",
+    "runtime-main.js.map": "/reminderking/static/js/runtime-main.89ca8b0f.js.map",
+    "static/css/2.0a167027.chunk.css": "/reminderking/static/css/2.0a167027.chunk.css",
+    "static/js/2.bdd97a38.chunk.js": "/reminderking/static/js/2.bdd97a38.chunk.js",
+    "static/js/2.bdd97a38.chunk.js.map": "/reminderking/static/js/2.bdd97a38.chunk.js.map",
+    "static/js/3.7eb367c6.chunk.js": "/reminderking/static/js/3.7eb367c6.chunk.js",
+    "static/js/3.7eb367c6.chunk.js.map": "/reminderking/static/js/3.7eb367c6.chunk.js.map",
+    "index.html": "/reminderking/index.html",
+    "static/css/2.0a167027.chunk.css.map": "/reminderking/static/css/2.0a167027.chunk.css.map",
+    "static/css/main.bc799066.chunk.css.map": "/reminderking/static/css/main.bc799066.chunk.css.map",
+    "static/js/2.bdd97a38.chunk.js.LICENSE.txt": "/reminderking/static/js/2.bdd97a38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89ca8b0f.js",
+    "static/css/2.0a167027.chunk.css",
+    "static/js/2.bdd97a38.chunk.js",
+    "static/css/main.bc799066.chunk.css",
+    "static/js/main.6f894549.chunk.js"
+  ]
+}
